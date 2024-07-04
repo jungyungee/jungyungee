@@ -11,5 +11,5 @@
 <h2>💻 Experience</h2>
 <li> 홍익대학교 컴퓨터공학과 <sub>(2021.03 ~ )</sub></li>
 <li> 대학생 IT 연합 프로젝트 동아리<a href="https://github.com/HIUMC"> UMC</a> • 4기 FE <sub>(2023.03 ~ 2023.07)</sub></li>
-<li> 대학생 IT 연합 프로젝트 동아리<a href=https://likelionhongik.com/"> 멋쟁이 사자처럼 홍대</a>• 11기 FE <sub>(2023.03 ~ 2023.12)</sub></li>
+<li> 대학생 IT 연합 프로젝트 동아리<a href="https://likelionhongik.com/"> 멋쟁이 사자처럼 홍대</a>• 11기 FE <sub>(2023.03 ~ 2023.12)</sub></li>
 
