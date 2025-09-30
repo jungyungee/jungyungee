@@ -29,6 +29,8 @@
 
 - 🎮 **Escape-T** — 홍익대 T동을 탈출하라  <sub>(2021.03 ~ 2021.11)</sub>  
 
-- 🛍 **와우마켓** — 대학교 굿즈 거래 플랫폼  <sub>(2023.03 ~ 2023.07)</sub>  
+- 🛍 **와우마켓** — 대학교 굿즈 거래 플랫폼  <sub>(2023.03 ~ 2023.07)</sub>
+
+- 👩‍💻 **데브톡 사이트** - 홍익대 컴퓨터공학과 연합 데브톡 세미나 공식 웹사이트  <sub>(2025.09 ~ )</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
