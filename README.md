@@ -31,6 +31,8 @@
 
 - 🛍 **와우마켓** — 대학교 굿즈 거래 플랫폼  <sub>(2023.03 ~ 2023.07)</sub>
 
-- 👩‍💻 **데브톡 사이트** - 홍익대 컴퓨터공학과 연합 데브톡 세미나 공식 웹사이트  <sub>(2025.09 ~ )</sub>
+- 🏃 **PloGo** - 건강한 발걸음을 위한 국내 플로깅 코스 추천 및 기록 서비스 모바일앱 (홍익대 졸업 프로젝트) <sub>(2025.04 ~ 2025.11)</sub>
+
+- 👩‍💻 **[데브톡 사이트](https://hongikdevtalk.com/)** - 홍익대 컴퓨터공학과 연합 데브톡 세미나 공식 웹사이트  <sub>(2025.09 ~ 2025.11)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
